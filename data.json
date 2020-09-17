@@ -11,7 +11,7 @@
                 "github_link": "https://github.com/rbraband521/Randomquote",
                 "image_urls": [
                     "./static/images/0/randomquotesq.png",
-                    "./static/images/0/quote.png",
+                    "./static/images/0/1.PNG",
                     "./static/images/0/2.PNG",
                     "./static/images/0/3.PNG"
                 ]
@@ -24,10 +24,10 @@
                 "live_link": "https://rbraband521.github.io/PaginationProject/Pagination",
                 "github_link": "https://github.com/rbraband521/PaginationProject",
                 "image_urls": [
-                    "./static/images/1/1.png",
-                    "./static/images/1/quote.png",
-                    "./static/images/1/2.png",
-                    "./static/images/1/3.png"
+                    "./static/images/1/1.PNG",
+                    "./static/images/1/quote.PNG",
+                    "./static/images/1/2.PNG",
+                    "./static/images/1/3.PNG"
                 ]
             },
             {
@@ -38,10 +38,10 @@
                 "live_link": "https://rbraband521.github.io/Interactive-Form/InteractiveForm/",
                 "github_link": "https://github.com/rbraband521/Interactive-Form",
                 "image_urls": [
-                    "./static/images/2/sq.png",
-                    "./static/images/2/1.png",
-                    "./static/images/2/2.png",
-                    "./static/images/2/3.png"
+                    "./static/images/2/sq.PNG",
+                    "./static/images/2/1.PNG",
+                    "./static/images/2/2.PNG",
+                    "./static/images/2/3.PNG"
                 ]
             },
             {
@@ -52,10 +52,10 @@
                 "live_link": "https://rbraband521.github.io/OOP-Game-Show-App/oop_game-v2/",
                 "github_link": "https://github.com/rbraband521/OOP-Game-Show-App/tree/master/oop_game-v2",
                 "image_urls": [
-                    "./static/images/3/sq2.png",
-                    "./static/images/3/1.png",
-                    "./static/images/3/2.png",
-                    "./static/images/3/3.png"
+                    "./static/images/3/sq2.PNG",
+                    "./static/images/3/1.PNG",
+                    "./static/images/3/2.PNG",
+                    "./static/images/3/3.PNG"
                 ]
             },
             {
@@ -66,10 +66,10 @@
                 "live_link": "https://rbraband521.github.io/Public-Request-API/public_api_request-v1/",
                 "github_link": "https://github.com/rbraband521/Public-Request-API/tree/master/public_api_request-v1",
                 "image_urls": [
-                    "./static/images/4/sq.png",
-                    "./static/images/4/1.png",
-                    "./static/images/4/2.png",
-                    "./static/images/4/3.png"
+                    "./static/images/4/sq.PNG",
+                    "./static/images/4/1.PNG",
+                    "./static/images/4/2.PNG",
+                    "./static/images/4/3.PNG"
                 ]
             }
         ]
