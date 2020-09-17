@@ -21,8 +21,8 @@
                 "project_name": "List Pagination and Filtering",
                 "description": "Divides a long list into a dynamic series of pages to improve the user experience of a web page",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "live_link": "https://rbraband521.github.io/PaginationProject/",
-                "github_link": "https://github.com/rbraband521/PaginationProject",
+                "live_link": "https://rbraband521.github.io/Pagination/",
+                "github_link": "https://github.com/rbraband521/Pagination",
                 "image_urls": [
                     "./static/images/1/1.PNG",
                     "./static/images/1/1.PNG",
@@ -50,7 +50,7 @@
                 "description": "Browser-based, word guessing game",
                 "technologies": ["Javascript", "CSS", "HTML"],
                 "live_link": "https://rbraband521.github.io/OOP-Game/",
-                "github_link": "https://github.com/rbraband521/OOP-Game-Show-App/tree/master/oop_game-v2",
+                "github_link": "https://github.com/rbraband521/OOP-Game",
                 "image_urls": [
                     "./static/images/3/sq2.PNG",
                     "./static/images/3/1.PNG",
@@ -63,8 +63,8 @@
                 "project_name": "Public API Requests",
                 "description": "Creates an employee directory via a third-party API",
                 "technologies": ["HTML", "JavaScript", "CSS", "Node.js"],
-                "live_link": "https://rbraband521.github.io/Public-Request-API/public_api_request-v1/",
-                "github_link": "https://github.com/rbraband521/Public-Request-API/tree/master/public_api_request-v1",
+                "live_link": "https://rbraband521.github.io/Employee-Directory-with-API/",
+                "github_link": "https://github.com/rbraband521/Employee-Directory-with-API",
                 "image_urls": [
                     "./static/images/4/sq.PNG",
                     "./static/images/4/1.PNG",
