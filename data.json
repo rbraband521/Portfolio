@@ -21,7 +21,7 @@
                 "project_name": "List Pagination and Filtering",
                 "description": "Divides a long list into a dynamic series of pages to improve the user experience of a web page",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "live_link": "https://rbraband521.github.io/PaginationProject/Pagination",
+                "live_link": "https://rbraband521.github.io/PaginationProject/",
                 "github_link": "https://github.com/rbraband521/PaginationProject",
                 "image_urls": [
                     "./static/images/1/1.PNG",
@@ -35,7 +35,7 @@
                 "project_name": "Interactive Form",
                 "description": "A dynamic interactive form that's easy to use",
                 "technologies": ["JavaScript", "HTML", "CSS"],
-                "live_link": "https://rbraband521.github.io/Interactive-Form/InteractiveForm/",
+                "live_link": "https://rbraband521.github.io/Interactive-Form",
                 "github_link": "https://github.com/rbraband521/Interactive-Form",
                 "image_urls": [
                     "./static/images/2/sq.PNG",
@@ -49,7 +49,7 @@
                 "project_name": "OOP Game Show App",
                 "description": "Browser-based, word guessing game",
                 "technologies": ["Javascript", "CSS", "HTML"],
-                "live_link": "https://rbraband521.github.io/OOP-Game-Show-App/oop_game-v2/",
+                "live_link": "https://rbraband521.github.io/OOP-Game/",
                 "github_link": "https://github.com/rbraband521/OOP-Game-Show-App/tree/master/oop_game-v2",
                 "image_urls": [
                     "./static/images/3/sq2.PNG",
