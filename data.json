@@ -71,6 +71,20 @@
                     "./static/images/4/2.PNG",
                     "./static/images/4/3.PNG"
                 ]
+            },
+            {
+                "id": "5",
+                "project_name": "React Gallery App",
+                "description": "A single page application built using the React library to create an image gallery app.",
+                "technologies": ["HTML", "CSS", "JavaScript", "JSX", "React", "Axios"],
+                "live_link": "https://react-gallery-app-rosy.vercel.app/",
+                "github_link": "https://github.com/rbraband521/React-Gallery-App",
+                "image_urls": [
+                    "./static/images/4/sq.PNG",
+                    "./static/images/4/1.PNG",
+                    "./static/images/4/2.PNG",
+                    "./static/images/4/3.PNG"
+                ]
             }
         ]
     }
