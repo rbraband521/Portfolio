@@ -80,10 +80,10 @@
                 "live_link": "https://react-gallery-app-rosy.vercel.app/",
                 "github_link": "https://github.com/rbraband521/React-Gallery-App",
                 "image_urls": [
-                    "./static/images/4/sq.PNG",
-                    "./static/images/4/1.PNG",
-                    "./static/images/4/2.PNG",
-                    "./static/images/4/3.PNG"
+                    "./static/images/5/sq.PNG",
+                    "./static/images/5/1.PNG",
+                    "./static/images/5/2.PNG",
+                    "./static/images/5/3.PNG"
                 ]
             }
         ]
