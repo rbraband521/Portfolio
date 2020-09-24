@@ -2321,7 +2321,8 @@ li {
 
 ul {
   margin-left: 1.25rem;
-  list-style-type: disc; }
+  list-style-type: disc;
+  column-count: 2; }
 
 ol {
   margin-left: 1.25rem; }
