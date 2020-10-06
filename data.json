@@ -7,8 +7,8 @@
                 "project_name": "Random Quote Generator",
                 "description": "Generate a random quote each time a user clicks a button",
                 "technologies": ["JavaScript", "CSS", "HTML"],
-                "live_link": "https://rbraband521.github.io/Randomquote/",
-                "github_link": "https://github.com/rbraband521/Randomquote",
+                "live_link": "https://rbraband521.github.io/RandomQuoteGenerator/",
+                "github_link": "https://github.com/rbraband521/RandomQuoteGenerator",
                 "image_urls": [
                     "./static/images/0/randomquotesq.png",
                     "./static/images/0/1.PNG",
