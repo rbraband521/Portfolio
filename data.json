@@ -21,8 +21,8 @@
                 "project_name": "List Pagination and Filtering",
                 "description": "Divides a long list into a dynamic series of pages to improve the user experience of a web page",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "live_link": "https://rbraband521.github.io/Pagination/",
-                "github_link": "https://github.com/rbraband521/Pagination",
+                "live_link": "https://rbraband521.github.io/Employee-directory-with-Pagination/",
+                "github_link": "https://github.com/rbraband521/Employee-directory-with-Pagination",
                 "image_urls": [
                     "./static/images/1/1.PNG",
                     "./static/images/1/1.PNG",
