@@ -5,7 +5,7 @@
             {
                 "id": "0",
                 "project_name": "Course Directory",
-                "brief": "Full stack app with React and REST API",
+                "brief": "Full Stack App with React and REST API",
                 "description": "A full stack application: The API provides a way for users to manage a school database complete with a list of courses, the ability to add/delete courses based on user authorization. The front end provides a user friendly interface for students to interact with the database.",
                 "technologies": ["JavaScript", "CSS", "JSX", "REACT", "React Context API"],
                 "live_link": "https://course-directory-full-stack-app.vercel.app/",
@@ -20,6 +20,7 @@
             {
                 "id": "1",
                 "project_name": "Random Quote Generator",
+                "brief": "Interactive JavaScript Application",
                 "description": "Generate a random quote each time a user clicks a button",
                 "technologies": ["JavaScript", "CSS", "HTML"],
                 "live_link": "https://rbraband521.github.io/RandomQuoteGenerator/",
@@ -33,7 +34,8 @@
             },
             {
                 "id": "2",
-                "project_name": "List Pagination and Filtering",
+                "project_name": "Employee Directory",
+                "brief": "List Pagination and Filerting",
                 "description": "Divides a long list into a dynamic series of pages to improve the user experience of a web page",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "live_link": "https://rbraband521.github.io/Employee-directory-with-Pagination/",
@@ -47,7 +49,8 @@
             },
             {
                 "id": "3",
-                "project_name": "Interactive Form",
+                "project_name": "Full Stack Conference Signup Form",
+                "brief": "Interactive JavaScript form with Validation",
                 "description": "A dynamic interactive form that's easy to use",
                 "technologies": ["JavaScript", "HTML", "CSS"],
                 "live_link": "https://rbraband521.github.io/Interactive-Form",
@@ -61,7 +64,8 @@
             },
             {
                 "id": "4",
-                "project_name": "OOP Game Show App",
+                "project_name": "Phrase Hunter",
+                "brief": "OOP Game Show Application",
                 "description": "Browser-based, word guessing game",
                 "technologies": ["Javascript", "CSS", "HTML"],
                 "live_link": "https://rbraband521.github.io/OOP-Game/",
@@ -75,7 +79,8 @@
             },
             {
                 "id": "5",
-                "project_name": "Public API Requests",
+                "project_name": "Awesome Startup Employee Directory",
+                "brief": "Public API Requests",
                 "description": "Creates an employee directory via a third-party API",
                 "technologies": ["HTML", "JavaScript", "CSS", "Node.js"],
                 "live_link": "https://rbraband521.github.io/Employee-Directory-with-API/",
@@ -89,7 +94,8 @@
             },
             {
                 "id": "6",
-                "project_name": "React Gallery App",
+                "project_name": "Flickr Gallery App",
+                "brief": "React Gallery Application",
                 "description": "A single page application built using the React library to create an image gallery app.",
                 "technologies": ["HTML", "CSS", "JavaScript", "JSX", "React", "Axios"],
                 "live_link": "https://react-gallery-app-rosy.vercel.app/",
