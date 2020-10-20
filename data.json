@@ -4,6 +4,20 @@
         "projects": [
             {
                 "id": "0",
+                "project_name": "Course Directory",
+                "description": "A full stack application: The API provides a way for users to manage a school database complete with a list of courses, the ability to add/delete courses based on user authorization. The front end provides a user friendly interface for students to interact with the database.",
+                "technologies": ["JavaScript", "CSS", "JSX", "REACT", "React Context API"],
+                "live_link": "https://course-directory-full-stack-app.vercel.app/",
+                "github_link": "https://github.com/rbraband521/FullStackApp",
+                "image_urls": [
+                    "./static/images/0/randomquotesq.png",
+                    "./static/images/0/1.PNG",
+                    "./static/images/0/2.PNG",
+                    "./static/images/0/3.PNG"
+                ]
+            },
+            {
+                "id": "1",
                 "project_name": "Random Quote Generator",
                 "description": "Generate a random quote each time a user clicks a button",
                 "technologies": ["JavaScript", "CSS", "HTML"],
@@ -17,7 +31,7 @@
                 ]
             },
             {
-                "id": "1",
+                "id": "2",
                 "project_name": "List Pagination and Filtering",
                 "description": "Divides a long list into a dynamic series of pages to improve the user experience of a web page",
                 "technologies": ["HTML", "CSS", "JavaScript"],
@@ -31,7 +45,7 @@
                 ]
             },
             {
-                "id": "2",
+                "id": "3",
                 "project_name": "Interactive Form",
                 "description": "A dynamic interactive form that's easy to use",
                 "technologies": ["JavaScript", "HTML", "CSS"],
@@ -45,7 +59,7 @@
                 ]
             },
             {
-                "id": "3",
+                "id": "4",
                 "project_name": "OOP Game Show App",
                 "description": "Browser-based, word guessing game",
                 "technologies": ["Javascript", "CSS", "HTML"],
@@ -59,7 +73,7 @@
                 ]
             },
             {
-                "id": "4",
+                "id": "5",
                 "project_name": "Public API Requests",
                 "description": "Creates an employee directory via a third-party API",
                 "technologies": ["HTML", "JavaScript", "CSS", "Node.js"],
@@ -73,7 +87,7 @@
                 ]
             },
             {
-                "id": "5",
+                "id": "6",
                 "project_name": "React Gallery App",
                 "description": "A single page application built using the React library to create an image gallery app.",
                 "technologies": ["HTML", "CSS", "JavaScript", "JSX", "React", "Axios"],
