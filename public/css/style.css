@@ -37,6 +37,11 @@ h2,h3,h4,h5,p{
   color: rgb(21, 28, 151);
 }
 
+.text-light-center{
+  color: rgb(21, 28, 151);
+  text-align: center;
+}
+
 .button{
   background-color: #333;
 }
