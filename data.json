@@ -6,7 +6,7 @@
                 "id": "0",
                 "project_name": "Course Directory",
                 "brief": "Full Stack App with React and REST API",
-                "description": "A full stack application: The API provides a way for users to manage a school database complete with a list of courses, the ability to add/delete courses based on user authorization. The front end provides a user friendly interface for students to interact with the database.",
+                "description": "A full stack application: The API provides a way for users to manage a school database complete with a list of courses, the ability to add/delete courses based on user authorization. The front end provides a user friendly interface for students to interact with the database. I would suggest starting with creating a user.",
                 "technologies": ["JavaScript", "CSS", "JSX", "REACT", "React Context API"],
                 "live_link": "https://course-directory-full-stack-app.vercel.app/",
                 "github_link": "https://github.com/rbraband521/FullStackApp",
