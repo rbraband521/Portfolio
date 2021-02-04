@@ -458,10 +458,10 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic; }
   
-.article:hover > img  h5 {
+.cell:hover > img  h5 {
     box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
   }
-  
+
 textarea {
   height: auto;
   min-height: 50px;
