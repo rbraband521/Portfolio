@@ -115,7 +115,7 @@ a:hover{
   margin: 0;
   padding: 25px 50px 5px;
   background: rgb(221 221 221);
-  /* background-image: url(../images/sunset.JPG); */
+  box-shadow: inset 1px 0px 6px 3px rgb(24 24 25);
 }
 
 .portfolio-intro p{
@@ -175,11 +175,11 @@ a:hover{
 
 .grid-y {
   background: rgb(47 44 60);
-  box-shadow: inset -1px 1px 6px 3px rgb(18 18 19)
+  box-shadow: inset -1px 1px 6px 3px rgb(18 18 19);
 }
 
 .off-canvas {
-  background: rgb(26, 48, 45);
+  /* background: rgb(26, 48, 45); */
 }
 
 .basket {
