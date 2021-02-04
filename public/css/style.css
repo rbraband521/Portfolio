@@ -38,7 +38,7 @@ h2,h3,h4,h5,p{
 }
 
 .text-light-center{
-  color: rgb(91, 92, 104);
+  color: rgb(245 245 238);
   text-align: center;
 }
 
@@ -130,6 +130,9 @@ a:hover{
   background-image: url(../images/Rome.JPG);
   background-size: cover;
   background-position: bottom;
+  box-shadow: inset 1px 0px 6px 3px rgb(24 24 25);
+  background-color: #9defff;
+  background-blend-mode: multiply;
 }
 
   .portfolio-index .thumbnail{
