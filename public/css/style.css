@@ -188,3 +188,9 @@ a:hover{
   float: right;
   border-radius: 50px;
 }
+
+@media (min-width: 1350px) {
+  .basket {
+    display: none;
+  }
+}
