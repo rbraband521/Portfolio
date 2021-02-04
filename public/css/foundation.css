@@ -5002,6 +5002,16 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
   .tabs-panel.is-active {
     display: block; }
 
+img.thumbnail-profile {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    margin-left: 1.5rem;
+    border-radius: 4%;
+    box-shadow: 9px 10px 9px 0px rgba(10, 10, 10, 0.4);
+    line-height: 0;
+  }
+
 .thumbnail {
   display: inline-block;
   max-width: 100%;
