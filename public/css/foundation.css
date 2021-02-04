@@ -458,9 +458,13 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic; }
   
-.cell:hover * {
+.cell:hover .img {
     box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
   }
+
+.cell:hover .h5 {
+  text-shadow: 2px 1px rgba(6 0 0 /80%);
+}
 
 textarea {
   height: auto;
