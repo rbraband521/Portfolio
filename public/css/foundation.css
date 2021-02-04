@@ -2271,7 +2271,9 @@ h5, .h5 {
   line-height: 1.4;
   margin-top: 0;
   margin-bottom: 0.5rem; }
-
+h5:hover {
+  text-shadow: 5px 5px 10px 1px rgba(10, 10, 10, 0.4);
+}
 h6, .h6 {
   font-size: 1rem;
   line-height: 1.4;
