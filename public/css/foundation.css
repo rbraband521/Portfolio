@@ -458,7 +458,7 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic; }
   
-.cell:hover > img {
+.cell:hover * {
     box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
   }
 
