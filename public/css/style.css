@@ -174,7 +174,8 @@ a:hover{
 }
 
 .grid-y {
-  background:rgb(26, 48, 45);
+  background: rgb(47 44 60);
+  box-shadow: inset -1px 1px 6px 3px rgb(18 18 19)
 }
 
 .off-canvas {
