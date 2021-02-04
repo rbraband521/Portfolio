@@ -458,9 +458,10 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic; }
   
-div:hover > img  h5 {
+.article:hover > img  h5 {
     box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
   }
+  
 textarea {
   height: auto;
   min-height: 50px;
@@ -2273,9 +2274,9 @@ h5, .h5 {
   margin-bottom: 0.5rem;
   text-shadow:  2px 1px rgb(64 66 78 / 20%) }
 
-h5:hover {
+/* h5:hover {
   text-shadow:  2px 1px rgba(58, 58, 61, 0.4);
-}
+} */
 h6, .h6 {
   font-size: 1rem;
   line-height: 1.4;
