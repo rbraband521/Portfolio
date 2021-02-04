@@ -2322,7 +2322,9 @@ li {
 ul {
   margin-left: 1.25rem;
   list-style-type: disc;
-  column-count: 2; }
+  column-count: 2; 
+  column-gap: 80px;
+}
 
 ol {
   margin-left: 1.25rem; }
