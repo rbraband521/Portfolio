@@ -458,7 +458,7 @@ img {
   height: auto;
   -ms-interpolation-mode: bicubic; }
   
-img:hover {
+div:hover > img  h5 {
     box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
   }
 textarea {
@@ -531,10 +531,6 @@ textarea {
     padding-left: 0;
     max-width: 100%;
     margin: 0 auto; }
-
-.grid-container:hover {
-    box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
-}
 
 .grid-x {
   display: -ms-flexbox;
