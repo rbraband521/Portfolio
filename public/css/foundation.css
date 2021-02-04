@@ -465,10 +465,10 @@ img {
 .cell:hover h5 {
   color: #050986;
 }
-
+/* 
 .cell:hover p {
   color: #050986;
-}
+} */
 
 textarea {
   height: auto;
