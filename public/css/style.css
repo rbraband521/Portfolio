@@ -117,6 +117,7 @@ a:hover{
   padding: 25px 50px 5px;
   background: rgb(221 221 221);
   box-shadow: inset 1px 0px 6px 3px rgb(24 24 25);
+  background: linear-gradient(45deg, lightblue 0%, white 45%, #05345fa6 80%)
 }
 
 .portfolio-intro p{
@@ -174,7 +175,7 @@ a:hover{
 }
 
 .whatinput-types-initial{
-  background: rgb(196, 227, 240);
+  background: rgb(221, 221, 221);
 }
 
 .grid-y {
