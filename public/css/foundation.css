@@ -2271,10 +2271,10 @@ h5, .h5 {
   line-height: 1.4;
   margin-top: 0;
   margin-bottom: 0.5rem;
-  text-shadow: 5px 5px 5px 1px rgba(10, 10, 10, 0.1) }
+  text-shadow:  2px 1px rgb(64 66 78 / 20%) }
 
 h5:hover {
-  text-shadow: 5px 5px 10px 1px rgba(10, 10, 10, 0.4);
+  text-shadow:  10px 1px rgba(5, 9, 243, 0.4);
 }
 h6, .h6 {
   font-size: 1rem;
