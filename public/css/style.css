@@ -114,8 +114,8 @@ a:hover{
 .portfolio-intro{
   margin: 0;
   padding: 40px 50px 30px;
-  /* background: rgb(196, 227, 240); */
-  background-image: url(../images/sunset.jpg);
+  background: rgb(196, 227, 240);
+  /* background-image: url(../images/sunset.JPG); */
 }
 
 .portfolio-intro p{
@@ -126,7 +126,10 @@ a:hover{
 .portfolio-index{
   margin: 0;
   padding: 10px 50px;
-  background: lightblue;
+  /* background: lightblue; */
+  background-image: url(../images/Rome.JPG);
+  background-size: cover;
+  background-position: bottom;
 }
 
   .portfolio-index .thumbnail{
