@@ -532,6 +532,10 @@ textarea {
     max-width: 100%;
     margin: 0 auto; }
 
+.grid-container:hover {
+    box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
+}
+
 .grid-x {
   display: -ms-flexbox;
   display: flex;
