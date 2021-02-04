@@ -98,7 +98,7 @@ a:hover{
 .portfolio-breadcrumb{
   margin: 0;
   padding: 20px;
-  border-bottom: 1px solid #7d89f5;
+  border-bottom: 1px solid #101011;
   background: rgb(221 221 221);
 }
 
@@ -109,7 +109,7 @@ a:hover{
    letter-spacing: 2.5px;
    -webkit-text-transform: uppercase;
    text-transform: uppercase;
-   background: rgb(196, 227, 240);
+   background: rgb(221, 221, 221);
  }
 
 .portfolio-intro{
