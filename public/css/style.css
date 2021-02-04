@@ -114,18 +114,18 @@ a:hover{
 .portfolio-intro{
   margin: 0;
   padding: 25px 50px 5px;
-  background: rgb(196, 227, 240);
+  background: rgb(221 221 221);
   /* background-image: url(../images/sunset.JPG); */
 }
 
 .portfolio-intro p{
-  border-bottom: 1px solid #eaeaea;
+  /* border-bottom: 1px solid #eaeaea; */
   padding-bottom: 40px;
 }
 
 .portfolio-index{
   margin: 0;
-  padding: 10px 50px;
+  padding: 25px 50px;
   /* background: lightblue; */
   background-image: url(../images/Rome.JPG);
   background-size: cover;
