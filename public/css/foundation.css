@@ -457,13 +457,17 @@ img {
   max-width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic; }
-  
+ /*****************************CELL HoVERING*******************************/ 
 .cell:hover .img {
     box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
   }
 
 .cell:hover .h5 {
-  text-shadow: 2px 1px rgba(6 0 0 /80%);
+  color: #050986;
+}
+
+.cell:hover .p {
+  color: #050986;
 }
 
 textarea {
