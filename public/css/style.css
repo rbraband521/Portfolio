@@ -1,4 +1,3 @@
-
 h1 {
   font-family: 'Merriweather', serif;
   text-shadow: 2px 2px grey;
@@ -113,12 +112,11 @@ a:hover{
  }
 
 .portfolio-intro{
-  position: fixed;
   margin: 0;
-  padding: 25px 50px 5px 50px;
+  padding: 25px 50px 5px;
   background: rgb(221 221 221);
   box-shadow: inset 1px 0px 6px 3px rgb(24 24 25);
-  background: linear-gradient(45deg, lightblue 0%, white 45%, #05345fa6 80%);
+  background: linear-gradient(45deg, lightblue 0%, white 45%, #05345fa6 80%)
 }
 
 .portfolio-intro p{
@@ -128,7 +126,7 @@ a:hover{
 
 .portfolio-index{
   margin: 0;
-  padding: 180px 50px 25px 25px;
+  padding: 25px 50px;
   /* background: lightblue; */
   background-image: url(../images/Rome.JPG);
   background-size: cover;
