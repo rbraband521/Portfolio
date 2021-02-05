@@ -127,6 +127,7 @@ a:hover{
 }
 
 .portfolio-index{
+  display: none;
   margin: 0;
   padding: 180px 50px 25px 25px;
   /* background: lightblue; */
