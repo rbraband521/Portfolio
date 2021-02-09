@@ -101,8 +101,8 @@ a:hover{
 .portfolio-breadcrumb{
   margin: 0;
   padding: 20px;
-  border-bottom: 1px solid #101011;
-  background: rgb(221 221 221);
+  /* border-bottom: 1px solid #101011; */
+  background: linear-gradient(#000000, 45%, #bbf7f7, #1b2d33, 95%, #000000);
 }
 
  .portfolio-breadcrumb a{
@@ -112,7 +112,7 @@ a:hover{
    letter-spacing: 2.5px;
    -webkit-text-transform: uppercase;
    text-transform: uppercase;
-   background: rgb(221, 221, 221);
+   /* background: rgb(221, 221, 221); */
  }
 
 .portfolio-intro{
@@ -211,4 +211,5 @@ a:hover{
 .socialbutton {
   width: 3rem;
   border-radius: 70px;
+  background-color: #8f8dcc;
 }
