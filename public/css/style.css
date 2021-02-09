@@ -191,7 +191,7 @@ a:hover{
 }
 
 .basket {
-  width: 15%;
+  width: 7rem;
   float: right;
   border-radius: 70px;
 }
@@ -205,7 +205,6 @@ a:hover{
 @media (min-width: 1350px) {
   .basket {
     border-radius: 110px;
-    width: 9%
   }
 }
 
