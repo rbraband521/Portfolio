@@ -208,12 +208,7 @@ a:hover{
   }
 }
 
-.github {
-  width: 3rem;
-  border-radius: 70px;
-}
-
-.linkedin {
+.socialbutton {
   width: 3rem;
   border-radius: 70px;
 }
