@@ -204,3 +204,9 @@ a:hover{
     width: 9%
   }
 }
+
+.github {
+  width: 15%;
+  float: left;
+  border-radius: 70px;
+}
