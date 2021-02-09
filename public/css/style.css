@@ -35,7 +35,9 @@ h2,h3,h4,h5,p{
 
 .text-light{
   display: inline-block;
-  padding-right: 3em;
+  padding-right: 1em;
+  border-right: black solid 1px;
+  padding-left: 1em;
   color: rgb(21, 28, 151);
 }
 
@@ -120,11 +122,11 @@ a:hover{
   box-shadow: inset 1px 0px 6px 3px rgb(24 24 25);
   background: linear-gradient(45deg, lightblue 0%, white 45%, #05345fa6 80%)
 }
-
+/* 
 .portfolio-intro p{
   /* border-bottom: 1px solid #eaeaea; */
-  padding-bottom: 40px;
-}
+  /* padding-bottom: 40px;
+} */ 
 
 .portfolio-index{
   margin: 0;
