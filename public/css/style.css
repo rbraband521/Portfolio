@@ -213,6 +213,11 @@ a:hover{
   border-radius: 70px;
   background-color: #8f8dcc;
 }
-.socialbutton:hover img {
-  box-shadow: 0 0 2px 1px rgba(6 0 0 /80%);
+
+.socialbutton:hover {
+  box-shadow: 0 0 5px 5px rgba(6 0 0 /80%);
+}
+
+.text-light:hover {
+  text-shadow: 1px 1px black;
 }
