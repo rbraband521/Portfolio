@@ -99,6 +99,8 @@ a:hover{
   }
 
 .portfolio-breadcrumb{
+  bottom: 0;
+  position: sticky;
   margin: 0;
   padding: 20px;
   /* border-bottom: 1px solid #101011; */
@@ -116,6 +118,7 @@ a:hover{
  }
 
 .portfolio-intro{
+  height: 50rem;
   margin: 0;
   padding: 25px 50px 5px;
   background: rgb(221 221 221);
